@@ -1,14 +1,5 @@
-# site-example
+# Desafio de Projeto Git/GitHub da Dio
+Repositório criado para o Desafio do Projeto.
 
-Example of site online free on gh-pages.
-
-
-```
-git clone https://github.com/rg3915/site-example.git
-cd site-example
-git checkout gh-pages
-# Open index.html on your browser
-```
-
-This template is based on [onepagelove.com/expert](https://onepagelove.com/expert) by [onepagelove.com](https://onepagelove.com/templates/free-templates).
-
+## Links úteis
+[Sintaxe Basica Markdown](http://www.markdowndowguide.org/basic-syntax/)
